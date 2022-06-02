@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UT3_KorrichMalik_WhatIP</string>
+    <string name="btn_getIp">Get my IP Address</string>
+</resources>
